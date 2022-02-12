@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👽
 
-- 🌱 I’m currently learning Javascript...
+- 🧠 I’m currently learning Javascript, Html, Css
 - 📫 How to reach me: chagasherberth@gmail.com
-- 😄 Pronouns: whatever
-- ⚡ Fun fact: to read and play guitar
+- 😺 Pronouns: Whatever
+- 🤟 Hobbies: Things that give me adrenaline
 
