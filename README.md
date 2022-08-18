@@ -11,5 +11,5 @@ My stack:
 
 HTML5, CSS3 (bulma, framework), Javascript (DOM, XML), Reactjs, Nodejs (with Express), Git and GitHub
 
-You can reach me: chagasherberth@gmail.com
+You can reach me: chagasherberth@gmail.com | https://www.linkedin.com/in/herberth333/
  
