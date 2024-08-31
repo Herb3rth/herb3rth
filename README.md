@@ -1,15 +1,13 @@
 ### Hi there 
 
 <h4> About me: </h4>
-My name is Herberth, I'm 23 years old. 
+My name is Herberth, I'm 25 years 
 
-I'm studying systems analysis and development (second half).
-
-Web developer, front end jr. 
+Web developer, front end
 
 My stack:
 
-HTML5, CSS3 (bulma, framework), Javascript (DOM, XML), Reactjs, Nodejs (with Express), TypeScript, Git and GitHub
+Javascript, Reactjs, Nodejs, TypeScript
 
 You can reach me: chagasherberth@gmail.com | https://www.linkedin.com/in/herberth333/
  
